@@ -79,7 +79,7 @@ I can center a div — after enough coffee ☕
 
 <div align="center">
   <img 
-    src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,androidstudio,firebase,mysql,git,github,vscode,figma&perline=6&theme=dark"
+    src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,androidstudio,mysql,git,github,vscode,figma&perline=6&theme=dark"
     alt="Tech Stack"
   />
 </div>
