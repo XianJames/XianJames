@@ -86,17 +86,6 @@ I can center a div — after enough coffee ☕
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  
-  <br/><br/>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=xianjames&theme=midnight-purple&hide_border=true"
-  />
-</div>
-
-
 
 ---
 
