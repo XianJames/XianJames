@@ -1,10 +1,4 @@
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=gradient&customColorList=0,2,30&text=Christian%20James%20Caparas&fontSize=52&fontColor=ffffff&desc=Web%20%26%20Mobile%20Developer&descSize=20&descAlignY=70"
-    width="100%"
-    alt="Profile Header"
-  />
-</div>
+
 
 <table border="0" align="center" width="100%">
   <tr>
@@ -47,7 +41,7 @@ I can center a div — after enough coffee ☕
   alt="Profile Views"
 />
     </td>
-
+<table>
     <td width="40%" align="center" valign="top">
       <img 
         src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
@@ -95,10 +89,7 @@ I can center a div — after enough coffee ☕
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianjames&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6"
-  />
+  
   <br/><br/>
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=xianjames&theme=midnight-purple&hide_border=true"
